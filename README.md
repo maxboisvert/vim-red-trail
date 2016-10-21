@@ -2,6 +2,12 @@
 
 This plugin highlights the trailing spaces in red. It does not highlight the current line.
 
+##Installation
+With Plug (https://github.com/junegunn/vim-plug) :
+```
+Plug 'maxboisvert/vim-red-trail'
+```
+
 ## License
 
 Copyright (c) 2016 Maxime Boisvert.
